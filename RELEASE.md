@@ -3,7 +3,7 @@
 ## Pod 信息
 
 - 名称: BFLottieWebView
-- 当前版本: 0.1.0
+- 当前版本: 0.1.1
 - GitHub 仓库: https://github.com/mirbf/BFLottieWebView
 - 作者: Bfchen (2946779829@qq.com)
 
@@ -33,8 +33,8 @@ git push -u origin main
 ### 4. 打 tag（必须与 podspec 版本一致）
 
 ```bash
-git tag 0.1.0
-git push origin 0.1.0
+git tag 0.1.1
+git push origin 0.1.1
 ```
 
 ### 5. 本地验证（可选）

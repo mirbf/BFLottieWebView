@@ -12,7 +12,7 @@ A small UIView that renders Lottie JSON via WKWebView + lottie-web (local, no CD
 
 ## Requirements
 
-- iOS 13.0+
+- iOS 12.0+
 - UIKit + WebKit
 
 ## Installation
@@ -28,7 +28,7 @@ pod 'BFLottieWebView'
 Use GitHub directly (without Trunk):
 
 ```ruby
-pod 'BFLottieWebView', :git => 'https://github.com/mirbf/BFLottieWebView.git', :tag => '0.1.0'
+pod 'BFLottieWebView', :git => 'https://github.com/mirbf/BFLottieWebView.git', :tag => '0.1.1'
 ```
 
 Local development:

@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name             = 'BFLottieWebView'
-  s.version          = '0.1.0'
+  s.version          = '0.1.1'
   s.summary          = 'A WKWebView + lottie-web renderer packaged as a reusable UIView.'
 
   s.description      = <<-DESC
@@ -19,7 +19,7 @@ Pod::Spec.new do |s|
   s.author           = { 'Bfchen' => '2946779829@qq.com' }
   s.source           = { :git => 'https://github.com/mirbf/BFLottieWebView.git', :tag => s.version.to_s }
 
-  s.ios.deployment_target = '13.0'
+  s.ios.deployment_target = '12.0'
   s.requires_arc = true
 
   s.source_files = 'BFLottieWebView/Classes/**/*.{h,m}'
